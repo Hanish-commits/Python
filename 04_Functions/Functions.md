@@ -1,4 +1,4 @@
-# Python Functions, Explained Beautifully
+# Python Functions
 
 > **A visual, beginner-friendly deep dive into Python functions**  
 > Learn to name reusable actions, pass information in, return results, and organize a program into clear pieces.
